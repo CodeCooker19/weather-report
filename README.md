@@ -4,7 +4,29 @@ This project used Prime Vue and Tailwind CSS in vite.
 
 The weather data comes from [openweathermap ](https://openweathermap.org/)
 
-This App work in [[Local](http://localhost:5173/) 
+## Features
+
+### Today's Weather
+1. **Current Weather:**
+   - Real Feel
+   - Pressure
+   - Humidity
+   - Cloudiness
+   - Condition
+   - Sunrise
+   - Sunset
+   - Min Temp
+   - Max Temp
+   - Visibility
+   - Wind Speed
+   - Wind Direction
+
+2. **Next Couple of Hours:**
+   - 3-hour interval forecast for the next few hours.
+
+### This Week's Weather
+  **Next 5 Days:**
+   - Detailed weather forecast for the next 5 days.
 
 ## **Install Dependencies:**
 
