@@ -1,6 +1,6 @@
 <template>
   <div class="w-full !h-[.538rem] flex">
-    <h5 class="flex w-[4rem] text-white text-[0.35rem] pr-[0.5rem]">
+    <h5 class="flex w-[5rem] text-white text-[0.35rem] pr-[0.5rem]">
       <div class="flex justify-center items-center">
         <svg fill="#fff" viewBox="0 0 24 24"
           class="w-[0.35rem] h-[0.35rem]">
@@ -14,7 +14,7 @@
       </span>
     </h5>
     <vue-google-autocomplete ref="address" id="map"
-      classname="lg:w-[10rem] w-full h-[0.538rem] rounded-[.32rem] text-white outline-none bg-[#5b5b5b] text-[0.25rem] flex pl-[.3rem]"
+      classname="lg:w-[10rem] w-full h-[0.538rem] rounded-[.32rem] text-white outline-none bg-[#5b5b5b] text-[0.25rem] flex px-[.3rem]"
       placeholder="Please type your address" v-on:placechanged="getAddressData">
     </vue-google-autocomplete>
   </div>
