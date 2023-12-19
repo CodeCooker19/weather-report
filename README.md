@@ -4,6 +4,10 @@ This project used Prime Vue and Tailwind CSS in vite.
 
 The weather data comes from [openweathermap ](https://openweathermap.org/)
 
+## Deployed Website
+
+You can access the deployed website at [(https://weather-report-three-rose.vercel.app/)].
+
 ## Features
 
 ### Today's Weather
