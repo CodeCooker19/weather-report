@@ -1,7 +1,24 @@
-# Vue 3 + Vite
+# Weather-App
 
-This template should help get you started developing with Vue 3, PrimeVue and TailwindCSS in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This project used Prime Vue and Tailwind CSS in vite.
 
-## Recommended IDE Setup
+The weather data comes from [the ](https://openweathermap.org/)
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## **Install Dependencies:**
+
+```
+# npm
+npm install
+
+# yarn
+yarn install
+```
+
+## **Run the App in Local:**
+```
+# npm
+npm dev
+
+# yarn
+yarn dev
+```
